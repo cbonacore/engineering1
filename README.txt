@@ -1,1 +1,1 @@
-This will contain both my program and thew microservices to be available to my team
+This will contain both my program and the microservices to be available to my team
